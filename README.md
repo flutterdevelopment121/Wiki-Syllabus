@@ -24,7 +24,7 @@ Easily select your university, stream, semester, and subjects, and track your pr
 
 | Step | Screenshot |
 |------|------------|
-| Home | ![Home](C:\Users\adilr\Documents\flow\screenshots\home.png.png) |
+| Home | ![Home](screenshots\home.png.png) |
 | Select University | ![University](screenshots/university.png) |
 | Select Stream | ![Stream](screenshots/stream.png) |
 | Select Semester | ![Semester](screenshots/semester.png) |
